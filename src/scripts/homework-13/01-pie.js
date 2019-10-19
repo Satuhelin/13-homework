@@ -6,7 +6,7 @@ const width = 780 - margin.left - margin.right
 
 // At the very least you'll need scales, and
 // you'll need to read in the file. And you'll need
-// and svg, too, probably.
+// and svg, too, probably. //perhaps
 
 const svg = d3
   .select('#chart-1')
